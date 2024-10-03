@@ -1,0 +1,2 @@
+Source Code ini berisi tentang Sistem Manajemen Perpustakaan yang didalamnya ada index/halaman utama yang menjelaskan apa saja yang ada di dalam source code, lalu disusul tombol login dan register untuk lanjut ke halaman selanjutnya,saya membuat ini menggunakan FileZilla lalu ditambah Extensions Visual Studio Code yang bernama : MySql dari Weijan Chen dan Database Client JDBC dari Weijan Chen. Selebihnya bis di cek source code nya. Terima Kasih dari saya
+-IrishChie
